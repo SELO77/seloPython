@@ -1,0 +1,5 @@
+I don't know why no one has mentioned this yet,
+because it's fundamental to the way with works. As with many language features in Python,
+with behind the scenes calls special methods, which are already defined for built-in Python objects
+and can be overridden by user-defined classes. In with's particular case (and context managers more generally)
+the methods are __enter__ and __exit__.
