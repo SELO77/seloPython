@@ -1,5 +1,5 @@
-roomCount = 5
-totalPaxCount = 7
+roomCount = 1
+totalPaxCount = 2
 
 def distributePaxForRoom(roomCount, totalPaxCount):
   # 방배정 리스트 초기화
@@ -7,6 +7,7 @@ def distributePaxForRoom(roomCount, totalPaxCount):
 
   cnt = 0
   while(cnt < roomCount):
+    print("==")
     resultList.append(0)
     cnt += 1
 
@@ -25,9 +26,6 @@ def distributePaxForRoom(roomCount, totalPaxCount):
 
     roomNumCnt += 1
     distributionCnt += 1
-
-  print(resultList.count(2))
-  print(resultList.count(1))
 
   return resultList
 
