@@ -49,6 +49,7 @@ def convertToHotelpassBedType(roomList):
     searchConditions.append(searchCondition)
 
     # 트윈베드 검색 조건 생성
+    searchCondition = searchCondition.copy()
     searchCondition['dBLCnt'] = 0
     searchCondition['tWNCnt'] = dblOrTwin
     searchConditions.append(searchCondition)
