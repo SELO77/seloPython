@@ -1,5 +1,12 @@
-testStr = "Hello {name}, How long have you bean?. I'm {myName}"
+# testStr = "Hello {name}, How long have you bean?. I'm {myName}"
+#
+# testStr = testStr.format(name="Leo", myName="Serim")
+#
+# print(testStr)
 
-testStr = testStr.format(name="Leo", myName="Serim")
+limit = None
+hello = str(limit, "")
+print(hello)
 
-print(testStr)
+# print( "4" in "3.5")
+

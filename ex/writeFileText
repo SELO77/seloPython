@@ -1,0 +1,13 @@
+import datetime
+
+startTime = datetime.datetime.now()
+limit = 'LIMIT 0, 30000'
+
+def writeLog(message):
+  endTime = datetime.datetime.now()
+  f = open('./log/updateHotelCount%s.txt'%str(startTime), "w")
+  f.write("startTime: %s, endTime: %s, time_of_taking: %s, limit: %s, message: %s\n"
+          %(str(startTime), str(endTime), str(endTime - startTime), str(limit), message))
+  f.close()
+
+writeLog("Success!!")
