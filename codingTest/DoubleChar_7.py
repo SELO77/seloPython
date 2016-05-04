@@ -6,7 +6,7 @@
 # double_char("1234!_ ") ==> "11223344!!__  "
 
 def double_char(str):
-  return ''.join(v * 2 for v in str)
+  return ''.join("%s,"%(v * 2) for v in str)
 
 result = double_char("abcd")
 print(result)

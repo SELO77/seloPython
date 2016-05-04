@@ -1,0 +1,136 @@
+{
+	"method": "search",
+	"apiKey": "",
+	"service": "hotels.vicinityMap",
+	"condition": {
+		"regionCode": "568963",
+		"regionType": "neightborhood",
+		"parentRegionCode": "568963",
+		"parentRegionType": "neightborhood",
+		"checkInDate": "2016-05-16",
+		"checkOutDate": "2016-05-17",
+		"roomCount": 2,
+		"adultCount": 4,
+		"childCount": 2,
+		"travelersPerRoom" : [
+		  {
+			"adultNum" : 2,
+			"childNum" :1,
+			"childAges": 11
+		  },
+		  {
+			"adultNum" : 2,
+			"childNum" :1,
+			"childAges": 9
+
+		  }
+		],
+		"filter": {
+			"price": {
+				"lowest": 10000,
+				"highest": 1000000
+			},
+			"starRating": [
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"region": {
+				"parentRegionCode": 3593,
+				"hotelCount": 523,
+				"regionCode": 6003084,
+				"regionName": "National Diet Building",
+				"regionType": "Point of Interest Shadow",
+				"parentRegionNameLong": "Tokyo, Japan",
+				"regionNameLong": "National Diet Building, Tokyo, Japan",
+				"parentRegionType": "City",
+				"subClass": "civic",
+				"relativeSignificance": "",
+				"timeStamp": 1461824866,
+				"parentRegionName": "Tokyo"
+			},
+			"hotelName": "Sheraton"
+		},
+		"sort": "priceAndReviewRating"
+	},
+	"result":{
+      "isSucceed": True,
+      "mapCenter": [35.62725000000000, 139.87818000000000],
+      "item": {
+        "regionCode": "179900",
+        "regionNameEN": "Tokyo",
+        "regionNameLN": "도쿄"
+      },
+      "filterData": {
+        "lowestPrice": 10000,
+        "highestPrice": 1000000,
+        "regionInfo": {
+          "attractions": [
+          {
+            "subClass": "civic",
+            "regionCode": 6003084,
+            "longitude": 139.746936,
+            "latitude": 35.676298,
+            "regionName": "National Diet Building",
+            "lastUpdateTime": 1462266489,
+            "regionNameLong": "National Diet Building, Tokyo, Japan",
+            "parentRegionCode": 3593,
+          },
+          {
+            "subClass": "monument",
+            "regionCode": 6003086,
+            "longitude": 139.75362,
+            "latitude": 35.680204,
+            "regionName": "Nijubashi Bridge",
+            "regionNameLong": "Nijubashi Bridge, Tokyo, Japan",
+          },
+          {
+            "subClass": "icecream",
+            "regionCode": 6003085,
+            "longitude": 139.8863,
+            "latitude": 35.629,
+            "regionName": "Disneyland Tokyo",
+            "regionNameLong": "Disneyland Tokyo, Urayasu, Japan",
+          },
+        ],
+        "stationsAndAirports": [],
+        "regions": [
+          {
+            "subClass": "",
+            "regionCode": 3593,
+            "longitude": 139.76,
+            "latitude": 35.675,
+            "regionName": "Tokyo",
+            "regionNameLong": "Tokyo, Japan",
+            "parentRegionCode": 179900,
+          },
+          {
+            "subClass": "",
+            "regionCode": 10172,
+            "longitude": 139.898819,
+            "latitude": 35.653069,
+            "regionName": "Urayasu",
+            "regionNameLong": "Urayasu, Japan",
+          },
+        ]
+        }
+      },
+      "searchHotelCount": 2,
+      "list": [
+        {
+          "hotelCode": "105351",
+          "latitude": "35.62725000000000",
+          "longitude": "139.87818000000000",
+          "averagePricePerNight": 268459.00
+        },
+        {
+          "hotelCode": "105492",
+          "latitude": "35.69751000000000",
+          "longitude": "139.75066000000000",
+          "averagePricePerNight": 318930.00
+        }
+      ]
+    }
+}
