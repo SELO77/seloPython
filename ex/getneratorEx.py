@@ -10,4 +10,4 @@ g = generatorSimple()
 print(g.__next__()) # 0
 print(g.__next__()) # 1
 print(g.__next__()) # 2
-print(g.__next__())
+print(g.__next__()) # 3
