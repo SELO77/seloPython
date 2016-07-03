@@ -1,10 +1,9 @@
 
 
-def test(first, **args):
+def test(first, *hi, **args):
   print(first)
+  print(hi)
   print(args['email'])
 
 
-
-
-test("sdf", email="sad@naver.com")
+test("sdf", 1234, email="sad@naver.com")
