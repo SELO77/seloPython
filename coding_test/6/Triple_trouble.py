@@ -37,9 +37,28 @@ def parsing_num(num):
   return False
 
 
+### Good Solutions
 
-print(triple_double(1234445533, 441233))
-print(triple_double(12344553, 441233))
-assert triple_double(1234445533, 441233) == 1
+# def triple_double(num1, num2):
+#     return any([i * 3 in str(num1) and i * 2 in str(num2) for i in '0123456789'])
+#
+# def triple_double(num1, num2):
+#     for x in range(10):
+#         if str(x) * 3 in str(num1):
+#             if str(x) * 2 in str(num2):
+#                 return 1
+#     return 0
+#
+# import re
+# def triple_double(num1, num2):
+#     #code me ^^
+#     r3 = re.compile(r'(\d)\1\1')
+#     f = r3.findall(str(num1))
+#     if len(f)>0:
+#         r2 = re.compile(f[0]+'{2}')
+#         if len(r2.findall(str(num2))):
+#             return 1
+#     return 0
+
 
 

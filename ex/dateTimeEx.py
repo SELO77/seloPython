@@ -1,11 +1,11 @@
-import datetime
+from datetime import *
 from time import gmtime, strftime
 
-nowDate = datetime.datetime.now()
+nowDate = datetime.now()
 
 print(nowDate)
 
-testDate = datetime.datetime.strftime(datetime.datetime.now(), '%Y-%m-%d %H:%M:%S')
+testDate = datetime.strftime(datetime.now(), '%Y-%m-%d %H:%M:%S')
 
 print(testDate)
 
