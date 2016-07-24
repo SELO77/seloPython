@@ -1,10 +1,12 @@
-import timeit
-import time
-from datetime import datetime, date
+from datetime import *
 
 
-start_time = timeit.default_timer()
+date_str = "2016-08-30"
+result = datetime.strptime('2011-07-07', "%Y-%m-%d")
 
-print(start_time)
+# print(result)
 
-print(datetime.now())
+if result < datetime.strptime("2016-09-01", "%Y-%m-%d"):
+  print('innner day')
+else:
+  print('outter day')

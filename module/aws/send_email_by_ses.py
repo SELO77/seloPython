@@ -28,8 +28,7 @@ def send_email():
     response = client.send_email(
       Source='noreply@traport.com',
       Destination={
-        'ToAddresses': [
-                        ]
+        'ToAddresses': ['rochan87@gmail.com',]
       },
       Message={
         'Subject': {
@@ -45,7 +44,6 @@ def send_email():
       },
     )
     print("response:\n%s\n"%response)
-
   except:
     print(traceback.format_exc())
 
