@@ -1,0 +1,12 @@
+DEBUG:root:debug debug!!
+INFO:root:info mehtod
+INFO:root:I told you so
+WARNING:root:Warch out!"
+ERROR:root:it's error
+CRITICAL:root:Critical error
+DEBUG:root:debug debug!!
+INFO:root:info mehtod
+INFO:root:I told you so
+WARNING:root:Warch out!"
+ERROR:root:it's error
+CRITICAL:root:Critical error
