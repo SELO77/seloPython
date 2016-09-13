@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="245a799d-c49c-4336-8fcd-5bfce9fb4b3f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/selo_lib/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/mongologtest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/3.X/selo_util.py" afterPath="$PROJECT_DIR$/selo_lib/selo_util.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3.X/ex/dateTimeEx.py" afterPath="$PROJECT_DIR$/3.X/ex/dateTimeEx.py" />
-    </list>
+    <list default="true" id="245a799d-c49c-4336-8fcd-5bfce9fb4b3f" name="Default" comment="" />
     <ignored path="selo_python.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
