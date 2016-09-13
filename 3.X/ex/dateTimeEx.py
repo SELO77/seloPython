@@ -5,10 +5,13 @@ nowDate = datetime.now()
 
 print(nowDate)
 
-testDate = datetime.strftime(datetime.now(), '%Y-%m-%d %H:%M:%S')
+testDate = nowDate.strftime('%Y-%m-%d %H:%M:%S')
 
 print(testDate)
+print type(testDate)
 
 
 testStrfTime = strftime("%Y-%m-%d %H:%M:%S", gmtime())
 print(testStrfTime)
+
+print datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
