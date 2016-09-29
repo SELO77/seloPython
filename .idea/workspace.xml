@@ -1,92 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="245a799d-c49c-4336-8fcd-5bfce9fb4b3f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/coding_test/7/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/coding_test/Fundemental/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/coding_test/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/critical_error/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/ex/defensive_programming/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/module/asyncio/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/module/aws/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/module/aws/lambda/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/module/http/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/module/pymongo/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/pattern/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/async_gather.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/6/Sum_consecutives.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/6/Triple_trouble.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/7/Binary_Addition.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/7/BitCounting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/7/DoubleChar_7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/7/RandomLottery_7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/7/RecursiveReverseString_7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/7/Regex_validate_PIN_code_7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/7/StringToIntegerConversion_7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/7/VampireNumbers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/Fundemental/MakingCopies.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/n3n_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coding_test/rotation_quadrangle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/commit_convention.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/critical_error/noneTypeUseGet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/args_ex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/arrayCheck.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/asyncIOex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/comprehensionEx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/copyTest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/dateTimeEx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/defensive_programming/assertions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/dictionary.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/extractKeyFromDict.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/file/testFile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/file/updateHotelCount.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/file/updateHotelCount2016-04-28 14:44:37.238625.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/filterAndLambda.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/getneratorEx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/lambdaTest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/listPop.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/log/updateHotelCount2016-04-28 15:03:51.022877.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/log/updateHotelCount2016-04-28 15:04:34.735029.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/makeObjEx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/strFormat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/stringContain.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/timeEx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/translationEX.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/typeEx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/withEx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex/writeFileText" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/Korean_convert_to_English.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/aiohttpBasic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/asyncio/1.generator_and_coroutine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/asyncio/2.urlopen.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/asyncio/3.thread.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/aws/boto3_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/aws/lambda/lambda_01.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/aws/send_email_by_ses.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/htmlParser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/http/simple_http_server.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/korea_language_token.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/peopleNumConvertToBedTypeForSearch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/pymongo/pymongo_basic_py2.7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/redisModule.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/sample/distributePaxForRoom.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/travelersPerRoom.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/module/write_file.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recursive_get_keys.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/selo_util.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/view.json" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ex/__init__.py" afterPath="$PROJECT_DIR$/3.X/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ex/concurrentFutures.py" afterPath="$PROJECT_DIR$/3.X/coding_test/6/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ex/log/updateHotelCount2016-04-28 15:04:21.973143.txt" afterPath="$PROJECT_DIR$/2.7/thread.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/module/sample/__init__.py" afterPath="$PROJECT_DIR$/2.7/coroutine.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/__init__.py" afterPath="$PROJECT_DIR$/2.7/__init__.py" />
-    </list>
+    <list default="true" id="245a799d-c49c-4336-8fcd-5bfce9fb4b3f" name="Default" comment="" />
     <ignored path="selo_python.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -98,8 +13,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/selo_python$thread.coverage" NAME="thread Coverage Results" MODIFIED="1471939633248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.7" />
+    <SUITE FILE_PATH="coverage/seloPython$urllib_file_regex.coverage" NAME="urllib_file_regex Coverage Results" MODIFIED="1474811497122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/ex" />
     <SUITE FILE_PATH="coverage/selo_python$coroutine.coverage" NAME="coroutine Coverage Results" MODIFIED="1471939272441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.7" />
+    <SUITE FILE_PATH="coverage/selo_python$thread.coverage" NAME="thread Coverage Results" MODIFIED="1471939633248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.7" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -109,24 +25,44 @@
     <favorites_list name="selo_python" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="thread.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2.7/thread.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="dateTimeEx.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.X/module/datetime/dateTimeEx.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+            <state relative-caret-position="360">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urllib_file_regex.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.X/ex/urllib_file_regex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
-                <element signature="e#40#56#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="coroutine.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.7/coroutine.py">
+      <file leaf-file-name="tzinfo_USTimeZone.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.X/module/datetime/tzinfo_USTimeZone.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="435">
+              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datetimeEX2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.X/module/datetime/datetimeEX2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -150,6 +86,11 @@
         <option value="$PROJECT_DIR$/2.7/module/coroutine/thread.py" />
         <option value="$PROJECT_DIR$/2.7/coroutine.py" />
         <option value="$PROJECT_DIR$/2.7/thread.py" />
+        <option value="$PROJECT_DIR$/algorithm/binary_search.py" />
+        <option value="$PROJECT_DIR$/3.X/module/datetime/dateTimeEx.py" />
+        <option value="$PROJECT_DIR$/3.X/module/datetime/tzinfo_USTimeZone.py" />
+        <option value="$PROJECT_DIR$/3.X/module/datetime/datetimeEX2.py" />
+        <option value="$PROJECT_DIR$/3.X/ex/urllib_file_regex.py" />
       </list>
     </option>
   </component>
@@ -160,10 +101,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="y" value="23" />
+    <option name="x" value="2320" />
+    <option name="y" value="68" />
     <option name="width" value="1280" />
-    <option name="height" value="1413" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -190,46 +131,82 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selo_python" />
+              <option name="myItemId" value="seloPython" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selo_python" />
+              <option name="myItemId" value="seloPython" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selo_python" />
+              <option name="myItemId" value="seloPython" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selo_python" />
+              <option name="myItemId" value="seloPython" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selo_python" />
+              <option name="myItemId" value="seloPython" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2.7" />
+              <option name="myItemId" value="3.X" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seloPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seloPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3.X" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seloPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seloPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3.X" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.pyenv/shims/python" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
@@ -237,11 +214,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/3.X/module/datetime" />
       <recent name="$PROJECT_DIR$/2.7" />
       <recent name="$PROJECT_DIR$/3.X" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.thread">
+  <component name="RunManager" selected="Python.urllib_file_regex">
     <configuration default="false" name="coroutine" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,6 +254,71 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.7/thread.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dateTimeEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.X/module/datetime" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="selo_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/module/datetime/dateTimeEx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="datetimeEX2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.X/module/datetime" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="selo_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/module/datetime/datetimeEX2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="urllib_file_regex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.X/ex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="selo_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/ex/urllib_file_regex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -480,19 +523,28 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.coroutine" />
       <item index="1" class="java.lang.String" itemvalue="Python.thread" />
+      <item index="2" class="java.lang.String" itemvalue="Python.dateTimeEx" />
+      <item index="3" class="java.lang.String" itemvalue="Python.datetimeEX2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.urllib_file_regex" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.thread" />
-        <item index="1" class="java.lang.String" itemvalue="Python.coroutine" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.urllib_file_regex" />
+        <item index="1" class="java.lang.String" itemvalue="Python.datetimeEX2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.dateTimeEx" />
+        <item index="3" class="java.lang.String" itemvalue="Python.thread" />
+        <item index="4" class="java.lang.String" itemvalue="Python.coroutine" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -505,26 +557,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="23" width="1280" height="1413" extended-state="0" />
-    <editor active="true" />
+    <frame x="2320" y="68" width="1280" height="1417" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2584814" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26171243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32981133" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32981133" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33080998" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32981133" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32981133" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32981133" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -540,15 +592,94 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/3.X/module/datetime/dateTimeEx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/module/datetime/tzinfo_USTimeZone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/module/datetime/datetimeEX2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/module/datetime/dateTimeEx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/module/datetime/tzinfo_USTimeZone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/module/datetime/datetimeEX2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/module/datetime/dateTimeEx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/module/datetime/tzinfo_USTimeZone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.7/thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2.7/coroutine.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,16 +687,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="739" column="21" selection-start-line="739" selection-start-column="21" selection-end-line="739" selection-end-column="21" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/binary_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2.7/thread.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.7/coroutine.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/module/datetime/dateTimeEx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/1289799977/datetime.py" />
+    <entry file="file://$PROJECT_DIR$/3.X/module/datetime/tzinfo_USTimeZone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/module/datetime/datetimeEX2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/ex/urllib_file_regex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#40#56#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
