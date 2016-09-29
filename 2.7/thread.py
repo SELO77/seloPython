@@ -15,17 +15,17 @@ def clock_usingGlobalVariable(interval):
 
 
 class Clock(threading.Thread):
+
     def __init__(self, interval):
         super(Clock, self).__init__()
-        global globalResource
-        self.resource = globalResource
+        # self.resource = globalResource
         self.interval = interval
 
-
     def run(self):
+        global globalResource
         while True:
-            self.resource += 1
-            print 'obj) this is {0}\n'.format(self.resource)
+            globalResource += 1
+            print 'obj) this is {0}\n'.format(globalResource)
             time.sleep(self.interval)
 
 

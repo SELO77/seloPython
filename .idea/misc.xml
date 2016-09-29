@@ -10,5 +10,9 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+<<<<<<< .merge_file_irmoEP
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.8 (~/.pyenv/shims/python)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.8 (~/.pyenv/versions/2.7.8/bin/python)" project-jdk-type="Python SDK" />
+>>>>>>> .merge_file_2ujk1t
 </project>
