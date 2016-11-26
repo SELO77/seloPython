@@ -21,6 +21,8 @@ def convertToBedType(numOfPeople, numOfRooms):
 
   return convertingResult
 
+def justFnc():
+  test_var = "just test"
 
 def convertToHotelpassBedType(roomList):
 
@@ -38,7 +40,7 @@ def convertToHotelpassBedType(roomList):
       dblOrTwin +=1
     elif each == 3:
       tRPCnt +=1
-
+  justFnc()
   if dblOrTwin > 0:
     searchCondition['sGLCnt'] = sGLCNT
     searchCondition['tRPCnt'] = tRPCnt

@@ -15,8 +15,8 @@
 # sum of 0... and sum of 2
 # consecutives 3 is 6 ..."""
 #
-# [1,1,7,7,3] # should return [2,14,3]
-# [-5,-5,7,7,12,0] # should return [-10,14,12,0]
+# [1,1,7,7,3] # should return [2,14-iterator,generator,3]
+# [-5,-5,7,7,12,0] # should return [-10,14-iterator,generator,12,0]
 
 test_list = [1, 2,2,2,2, 3, 10,10, 5, 2]
 

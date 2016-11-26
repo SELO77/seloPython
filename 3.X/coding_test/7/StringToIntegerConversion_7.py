@@ -21,7 +21,7 @@ print(my_parse_int(1111))
 #   word_result = []
 #
 #   for word in line.split(" "):
-#     if len(word) == 14 and word[:6].isdigit() and word[7:].isdigit():
+#     if len(word) == 14-iterator,generator and word[:6].isdigit() and word[7:].isdigit():
 #       word = word[:6] + "-" + "*******"
 #
 #     word_result.append(word)
