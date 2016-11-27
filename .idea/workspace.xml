@@ -2,30 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e39ac502-519a-44f5-bf25-a7cc7bcb850f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-4iterable,iterator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-5generator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/16-coroutine/16-17yieldfrom.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/16-coroutine/16-2coroutinestate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/18-asyncio/18-1spinner-thread.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/18-asyncio/18-2spinnere-asyncio.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/module/aiohttp/aiohttp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/module/multiprocessing/161123-multiprocessing1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/module/multiprocessing/multiprocessing1-1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/module/multiprocessing/multiprocessing2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/module/multithreading/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/module/multithreading/download.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/module/multithreading/single.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/geocoding.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-11arithmeticProgression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-24.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-26fibo_by_hand.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-7sentence_gen2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-9sentence_genexp.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3.X/coding_test/6/Sum_consecutives.py" afterPath="$PROJECT_DIR$/3.X/coding_test/6/Sum_consecutives.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3.X/coding_test/7/StringToIntegerConversion_7.py" afterPath="$PROJECT_DIR$/3.X/coding_test/7/StringToIntegerConversion_7.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3.X/ex/lambdaTest.py" afterPath="$PROJECT_DIR$/3.X/ex/lambdaTest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3.X/module/peopleNumConvertToBedTypeForSearch.py" afterPath="$PROJECT_DIR$/3.X/module/peopleNumConvertToBedTypeForSearch.py" />
     </list>
     <ignored path="seloPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,12 +23,17 @@
     <SUITE FILE_PATH="coverage/seloPython$14_1.coverage" NAME="14-1 Coverage Results" MODIFIED="1479537791615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator" />
     <SUITE FILE_PATH="coverage/seloPython$16_17yieldfrom.coverage" NAME="16-17yieldfrom Coverage Results" MODIFIED="1479821611720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/FluentPython/16-coroutine" />
     <SUITE FILE_PATH="coverage/seloPython$16_2coroutinestate.coverage" NAME="16-2coroutinestate Coverage Results" MODIFIED="1479618328459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/FluentPython/16-coroutine" />
+    <SUITE FILE_PATH="coverage/seloPython$14_11arithmeticProgression.coverage" NAME="14-11arithmeticProgression Coverage Results" MODIFIED="1480232108214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator" />
     <SUITE FILE_PATH="coverage/seloPython$14_4.coverage" NAME="14-4 Coverage Results" MODIFIED="1479540367064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator" />
+    <SUITE FILE_PATH="coverage/seloPython$14_9sentence_genexp.coverage" NAME="14-9sentence_genexp Coverage Results" MODIFIED="1480150741663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator" />
+    <SUITE FILE_PATH="coverage/seloPython$14_26fibo_by_hand.coverage" NAME="14-26fibo_by_hand Coverage Results" MODIFIED="1480238263027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator" />
     <SUITE FILE_PATH="coverage/seloPython$multiprocessing1_1.coverage" NAME="multiprocessing1-1 Coverage Results" MODIFIED="1479888271355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/module/multiprocessing" />
+    <SUITE FILE_PATH="coverage/seloPython$14_24.coverage" NAME="14-24 Coverage Results" MODIFIED="1480236418569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator" />
     <SUITE FILE_PATH="coverage/seloPython$single.coverage" NAME="single Coverage Results" MODIFIED="1479622132435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/multithreading" />
     <SUITE FILE_PATH="coverage/seloPython$multiprocessing2.coverage" NAME="multiprocessing2 Coverage Results" MODIFIED="1479888259981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/module/multiprocessing" />
     <SUITE FILE_PATH="coverage/seloPython$htmlParser.coverage" NAME="htmlParser Coverage Results" MODIFIED="1479819356670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/module" />
     <SUITE FILE_PATH="coverage/seloPython$geocoding.coverage" NAME="geocoding Coverage Results" MODIFIED="1478947790085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/seloPython$14_7sentence_gen2.coverage" NAME="14-7sentence_gen2 Coverage Results" MODIFIED="1480149050666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator" />
     <SUITE FILE_PATH="coverage/seloPython$18_1spinner_thread.coverage" NAME="18-1spinner-thread Coverage Results" MODIFIED="1479633034051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/FluentPython/18-asyncio" />
     <SUITE FILE_PATH="coverage/seloPython$18_2spinnere_asyncio.coverage" NAME="18-2spinnere-asyncio Coverage Results" MODIFIED="1479633041418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/FluentPython/18-asyncio" />
     <SUITE FILE_PATH="coverage/seloPython$161123_multiprocessing1.coverage" NAME="161123-multiprocessing1 Coverage Results" MODIFIED="1479881334288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.X/module/multiprocessing" />
@@ -110,12 +97,63 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="14-5generator.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="14-5generator.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-5generator.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="420">
-                  <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+                <state relative-caret-position="375">
+                  <caret line="26" column="46" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="46" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="14-9sentence_genexp.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-9sentence_genexp.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#0#9#0" expanded="true" />
+                    <marker date="1480150737000" expanded="true" signature="72:460" ph="..." />
+                    <marker date="1480150737000" expanded="true" signature="237:460" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="14-11arithmeticProgression.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-11arithmeticProgression.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="165">
+                  <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                  <folding>
+                    <marker date="1480232106000" expanded="true" signature="28:433" ph="..." />
+                    <marker date="1480232106000" expanded="true" signature="77:152" ph="..." />
+                    <marker date="1480232106000" expanded="true" signature="178:433" ph="..." />
+                    <marker date="1480232106000" expanded="true" signature="333:433" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="14-24.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-24.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="14-26fibo_by_hand.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-26fibo_by_hand.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="397">
+                  <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#12#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -136,13 +174,25 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="18-2spinnere-asyncio.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="18-2spinnere-asyncio.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/3.X/FluentPython/18-asyncio/18-2spinnere-asyncio.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
+                <state relative-caret-position="7">
                   <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
                   <folding>
                     <element signature="e#0#14#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="14-7sentence_gen2.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-7sentence_gen2.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="330">
+                  <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+                  <folding>
+                    <element signature="e#0#9#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -182,6 +232,11 @@
         <option value="$PROJECT_DIR$/3.X/module/multiprocessing/multiprocessing2.py" />
         <option value="$PROJECT_DIR$/3.X/module/multiprocessing/multiprocessing1-1.py" />
         <option value="$PROJECT_DIR$/3.X/module/aiohttp/aiohttp.py" />
+        <option value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-7sentence_gen2.py" />
+        <option value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-9sentence_genexp.py" />
+        <option value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-11arithmeticProgression.py" />
+        <option value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-24.py" />
+        <option value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-26fibo_by_hand.py" />
       </list>
     </option>
   </component>
@@ -192,6 +247,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1173" />
@@ -385,7 +441,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/.pyenv/versions/3.5.0/bin/python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../isis2json" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
@@ -395,80 +451,8 @@
       <recent name="$PROJECT_DIR$/3.X/module" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14-5generator">
-    <configuration default="false" name="16-17yieldfrom" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.X/FluentPython/16-coroutine" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="seloPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/FluentPython/16-coroutine/16-17yieldfrom.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="161123-multiprocessing1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.X/module/multiprocessing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="seloPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/module/multiprocessing/161123-multiprocessing1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="multiprocessing2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.X/module/multiprocessing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="seloPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/module/multiprocessing/multiprocessing2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="multiprocessing1-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.X/module/multiprocessing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="seloPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/module/multiprocessing/multiprocessing1-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="14-5generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.14-26fibo_by_hand">
+    <configuration default="false" name="14-7sentence_gen2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -481,7 +465,79 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="seloPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-5generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-7sentence_gen2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="14-9sentence_genexp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seloPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-9sentence_genexp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="14-11arithmeticProgression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seloPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-11arithmeticProgression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="14-24" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seloPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-24.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="14-26fibo_by_hand" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="seloPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-26fibo_by_hand.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -706,19 +762,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.16-17yieldfrom" />
-      <item index="1" class="java.lang.String" itemvalue="Python.161123-multiprocessing1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.multiprocessing2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.multiprocessing1-1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.14-5generator" />
+      <item index="0" class="java.lang.String" itemvalue="Python.14-7sentence_gen2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.14-9sentence_genexp" />
+      <item index="2" class="java.lang.String" itemvalue="Python.14-11arithmeticProgression" />
+      <item index="3" class="java.lang.String" itemvalue="Python.14-24" />
+      <item index="4" class="java.lang.String" itemvalue="Python.14-26fibo_by_hand" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.14-5generator" />
-        <item index="1" class="java.lang.String" itemvalue="Python.multiprocessing1-1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.multiprocessing2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.161123-multiprocessing1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.16-17yieldfrom" />
+        <item index="0" class="java.lang.String" itemvalue="Python.14-26fibo_by_hand" />
+        <item index="1" class="java.lang.String" itemvalue="Python.14-24" />
+        <item index="2" class="java.lang.String" itemvalue="Python.14-11arithmeticProgression" />
+        <item index="3" class="java.lang.String" itemvalue="Python.14-9sentence_genexp" />
+        <item index="4" class="java.lang.String" itemvalue="Python.14-7sentence_gen2" />
       </list>
     </recent_temporary>
   </component>
@@ -739,7 +795,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
+    <frame x="1" y="23" width="1920" height="1173" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16347177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -748,7 +804,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -941,11 +997,21 @@
           <line>6</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-11arithmeticProgression.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-11arithmeticProgression.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="54" />
+      <option name="time" value="57" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1153,17 +1219,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.X/module/multiprocessing/161123-multiprocessing1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.X/FluentPython/18-asyncio/18-2spinnere-asyncio.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="7">
           <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
@@ -1183,9 +1241,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-5generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="375">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="46" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/module/multiprocessing/161123-multiprocessing1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-7sentence_gen2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-9sentence_genexp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1480150737000" expanded="true" signature="72:460" ph="..." />
+            <marker date="1480150737000" expanded="true" signature="237:460" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-11arithmeticProgression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1480232106000" expanded="true" signature="28:433" ph="..." />
+            <marker date="1480232106000" expanded="true" signature="77:152" ph="..." />
+            <marker date="1480232106000" expanded="true" signature="178:433" ph="..." />
+            <marker date="1480232106000" expanded="true" signature="333:433" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.X/FluentPython/14-iterator,generator/14-26fibo_by_hand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
