@@ -18,7 +18,7 @@ print(resultList)
     "roomCount": 2,
     "adultCount": 4,
     "childCount": 2,
-    "childAges": "14,16"
+    "childAges": "14-iterator,generator,16"
   }
 }
 
