@@ -7,8 +7,10 @@ import traceback
 
 class SpawnClass():
 
+
   def __init__(self):
     pass
+
 
   @asyncio.coroutine
   def execute(self, request_class_list):
@@ -29,7 +31,7 @@ class SpawnClass():
           )
         yield from asyncio.gather(*tasks_list)
     except:
-        print(traceback.format_exc())
+      print(traceback.format_exc())
     return response
 
 
@@ -66,4 +68,3 @@ def main():
 
 loop = asyncio.get_event_loop()
 loop.run_until_complete(main())
-
