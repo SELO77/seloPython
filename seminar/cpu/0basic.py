@@ -1,6 +1,6 @@
-from multiprocessing import Process, Queue
+import dis
 import time
-import os
+
 
 def do_work(start, end, result):
     sum = 0
@@ -14,4 +14,6 @@ if __name__ == '__main__':
     result = {}
     st = time.time()
     do_work(START, END, result)
-    print('== sum:{} running time {:.4f}s'.format(result['sum'], time.time() - st)) # 8.2307s
+    print('== sum:{} running time {:.4f}s'.format(result['sum'],
+                                                  time.time() - st))
+    # 7.9923s
