@@ -1,3 +1,4 @@
+import os
 import time
 from concurrent.futures import ThreadPoolExecutor
 from urllib.request import urlopen
@@ -6,9 +7,10 @@ urls = ['http://www.naver.com',
        'https://www.google.com',
        'https://www.apple.com',
        'http://www.bing.com/'] * 10
-NUM_WORKERS = 4
+NUM_WORKERS = 5
 
 def fetch(url):
+    # print(os.getpid())
     print('Start with', url)
     urlopen(url)
     print('End', url)

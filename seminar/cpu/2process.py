@@ -4,7 +4,6 @@ from multiprocessing import Process, Queue
 
 
 def do_work(start, end, result):
-    print(os.getpid())
     sum = 0
     for i in range(int(start), int(end)):
         sum += i
@@ -13,7 +12,6 @@ def do_work(start, end, result):
 
 
 if __name__ == '__main__':
-    print(os.getpid())
     START, END = 0, 100000000
     result = Queue()
     st = time.time()

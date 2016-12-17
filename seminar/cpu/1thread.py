@@ -12,7 +12,6 @@ def do_work(start, end, result):
 
 
 if __name__ == "__main__":
-    print(os.getpid())
     START, END = 0, 100000000
     result = list()
     st = time.time()
